@@ -1,6 +1,6 @@
 # Individual Projects
-| Section       | Book Number | Title                                | Tier   |
-|---------------|-------------|--------------------------------------|--------------|
+| Section       | Book Number | Title                                |
+|---------------|-------------|--------------------------------------|
 | Client Side | Book 1 | [Cheugy Crocs](https://github.com/nss-group-projects/ChuegyCrocs) |
 |    |        | [Link's Kitchen](https://github.com/nss-group-projects/LinksKitchen) |
 |    | Book 2 | [Macho Moods](https://github.com/nss-group-projects/MachoMoods) | 
