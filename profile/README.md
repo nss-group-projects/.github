@@ -27,9 +27,9 @@
 |    | Book 3 | [Adventurer's Quest](https://github.com/nss-group-projects/adventurer-quest) |
 |    |        | [Corner Store]() |
 |    |        | [Hillary's Hair Care]()
-|    | Book 4 | [Bianca's Bikes]() |
+|    | Book 4 | [Bianca's Bikes](https://github.com/nashville-software-school/dotnet-biancas-template) |
 |    |        | [House Rules]() |
-|    |        | [Plan Your Heist II]([Plan Your Heist II](https://github.com/nashville-software-school/bangazon-inc/blob/server-side-curriculum/book-1-orientation/chapters/CLASSIC_HEIST.md)) |
+|    |        | [Plan Your Heist II](https://github.com/nashville-software-school/bangazon-inc/blob/server-side-curriculum/book-1-orientation/chapters/CLASSIC_HEIST.md)) |
 |    |        | [Trestlebridge Farms](https://github.com/nashville-software-school/Trestlebridge-Farms)
 | - | - | - | - |
 
